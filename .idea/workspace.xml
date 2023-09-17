@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee833df7-1517-42cc-a4ce-635032c71542" name="Changes" comment="update&quot;" />
+    <list default="true" id="ee833df7-1517-42cc-a4ce-635032c71542" name="Changes" comment="update&quot;">
+      <change afterPath="$PROJECT_DIR$/components/ui/alert.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/api-alert.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/badge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/use-origin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/settings/components/settings-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/settings/components/settings-form.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "TajwarSaiyeed"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TajwarSaiyeed&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -55,7 +62,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "D:\\Typescript Project\\ecommerce-admin\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,6 +76,7 @@
       <updated>1694904840271</updated>
       <workItem from="1694904841641" duration="8318000" />
       <workItem from="1694925534143" duration="1282000" />
+      <workItem from="1694926865158" duration="3054000" />
     </task>
     <task id="LOCAL-00001" summary="Alear Modal | heading | main nav | setting page update name | delete store">
       <option name="closed" value="true" />
