@@ -10,7 +10,7 @@ export async function PATCH(req: Request, {params}: {
     try {
         const {userId} = auth()
         if (!userId) {
-            return new NextResponse("Unauthorized", {status: 401})
+            return new NextResponse("Unauthenticated", {status: 401})
         }
         const body = await req.json()
         const {name} = body;
@@ -45,7 +45,7 @@ export async function DELETE(req: Request, {params}: {
     try {
         const {userId} = auth()
         if (!userId) {
-            return new NextResponse("Unauthorized", {status: 401})
+            return new NextResponse("Unauthenticated", {status: 401})
         }
         if (!params.storeId) {
             return new NextResponse("Store Id is Required", {status: 400})
