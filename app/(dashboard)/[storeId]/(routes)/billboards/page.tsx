@@ -5,7 +5,7 @@ import prismadb from "@/lib/prismadb";
 import {BillboardClient} from "./components/billboard-client";
 import {BillboardColumn} from "@/app/(dashboard)/[storeId]/(routes)/billboards/components/columns";
 
-const BillBoards = async ({params} : {
+const BillBoardsPage = async ({params} : {
     params: {
         storeId: string
     }
@@ -19,7 +19,7 @@ const BillBoards = async ({params} : {
         }
     })
 
-    const formatedBillboards: BillboardColumn[] = billboards.map((item) => ({
+    const formatted: BillboardColumn[] = billboards.map((item) => ({
         id: item.id,
         label: item.label,
         createdAt: format(item.createdAt, 'MMMM do, yyyy')
@@ -27,9 +27,9 @@ const BillBoards = async ({params} : {
 
     return <div className={'flex flex-col'}>
         <div className={'flex-1 space-y-4 p-8 pt-6'}>
-            <BillboardClient data={formatedBillboards} />
+            <BillboardClient data={formatted} />
         </div>
     </div>
 }
 
-export default BillBoards
+export default BillBoardsPage

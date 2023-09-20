@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee833df7-1517-42cc-a4ce-635032c71542" name="Changes" comment="update&quot;">
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/components/cell-action.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/api-list.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/categories/[categoryId]/components/category-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/categories/[categoryId]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/categories/components/category-client.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/categories/components/cell-action.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/categories/components/columns.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/categories/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/categories/[categoryId]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/categories/route.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/[billboardId]/components/billboard-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/[billboardId]/components/billboard-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/components/billboard-client.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/components/billboard-client.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/components/columns.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/components/columns.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/[storeId]/billboards/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/[storeId]/billboards/route.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/data-table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/data-table.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/billboards/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main-nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/main-nav.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Typescript Project/ecommerce-admin",
+    "last_opened_file_path": "D:/Typescript Project/ecommerce-admin/app/api/[storeId]",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +80,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Typescript Project\ecommerce-admin\app\api\[storeId]" />
+      <recent name="D:\Typescript Project\ecommerce-admin\app\(dashboard)\[storeId]\(routes)" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,7 +102,12 @@
       <workItem from="1695023621076" duration="1845000" />
       <workItem from="1695081966550" duration="2526000" />
       <workItem from="1695086398841" duration="2415000" />
-      <workItem from="1695122161519" duration="8217000" />
+      <workItem from="1695122161519" duration="8369000" />
+      <workItem from="1695167477783" duration="2346000" />
+      <workItem from="1695172661278" duration="316000" />
+      <workItem from="1695173032207" duration="612000" />
+      <workItem from="1695173771347" duration="775000" />
+      <workItem from="1695188311368" duration="2310000" />
     </task>
     <task id="LOCAL-00001" summary="Alear Modal | heading | main nav | setting page update name | delete store">
       <option name="closed" value="true" />
