@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee833df7-1517-42cc-a4ce-635032c71542" name="Changes" comment="update&quot;">
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/orders/components/cell-action.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/orders/components/columns.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/orders/components/order-client.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/orders/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/[productId]/components/product-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/[productId]/components/product-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/components/cell-action.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/components/cell-action.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main-nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/main-nav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Typescript Project/ecommerce-admin/app/api/[storeId]",
+    "last_opened_file_path": "D:/Typescript Project/ecommerce-admin/app/(dashboard)/[storeId]/(routes)",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,8 +75,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Typescript Project\ecommerce-admin\app\api\[storeId]" />
       <recent name="D:\Typescript Project\ecommerce-admin\app\(dashboard)\[storeId]\(routes)" />
+      <recent name="D:\Typescript Project\ecommerce-admin\app\api\[storeId]" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -102,7 +106,7 @@
       <workItem from="1695199919254" duration="1989000" />
       <workItem from="1695208157613" duration="1225000" />
       <workItem from="1695209430578" duration="9638000" />
-      <workItem from="1695253531286" duration="13810000" />
+      <workItem from="1695253531286" duration="15272000" />
     </task>
     <task id="LOCAL-00001" summary="Alear Modal | heading | main nav | setting page update name | delete store">
       <option name="closed" value="true" />
