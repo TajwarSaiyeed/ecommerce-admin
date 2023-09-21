@@ -5,25 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee833df7-1517-42cc-a4ce-635032c71542" name="Changes" comment="update&quot;">
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/colors/[colorId]/components/color-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/colors/[colorId]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/colors/components/cell-action.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/colors/components/colors-client.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/colors/components/columns.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/colors/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/sizes/[sizeId]/components/size-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/sizes/[sizeId]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/sizes/components/cell-action.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/sizes/components/columns.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/sizes/components/sizes-client.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/sizes/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/colors/[colorId]/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/colors/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/sizes/[sizeId]/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/sizes/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/[productId]/components/product-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/[productId]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/components/cell-action.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/components/columns.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/components/product-client.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/products/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/products/[productId]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/products/route.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/categories/components/cell-action.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/categories/components/cell-action.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/uploadthing/core.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/uploadthing/core.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/file-upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/file-upload.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/main-nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/main-nav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +112,10 @@
       <workItem from="1695188311368" duration="3430000" />
       <workItem from="1695192793854" duration="814000" />
       <workItem from="1695193708624" duration="2415000" />
-      <workItem from="1695199919254" duration="1476000" />
+      <workItem from="1695199919254" duration="1989000" />
+      <workItem from="1695208157613" duration="1225000" />
+      <workItem from="1695209430578" duration="9638000" />
+      <workItem from="1695253531286" duration="11774000" />
     </task>
     <task id="LOCAL-00001" summary="Alear Modal | heading | main nav | setting page update name | delete store">
       <option name="closed" value="true" />
