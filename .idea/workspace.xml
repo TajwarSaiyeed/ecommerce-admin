@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee833df7-1517-42cc-a4ce-635032c71542" name="Changes" comment="update&quot;">
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/orders/components/cell-action.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/orders/components/columns.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/orders/components/order-client.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/orders/page.tsx" afterDir="false" />
+    <list default="true" id="ee833df7-1517-42cc-a4ce-635032c71542" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ecommerce-store/actions/get-category.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce-store/actions/get-colors.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce-store/actions/get-sizes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce-store/app/(routes)/category/[categoryId]/components/filter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce-store/app/(routes)/category/[categoryId]/components/mobile-filters.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce-store/app/(routes)/category/[categoryId]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/main-nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/main-nav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/[storeId]/categories/[categoryId]/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/[storeId]/categories/[categoryId]/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecommerce-store/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../ecommerce-store/components/ui/button.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ecommerce-store" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -52,6 +55,7 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2VUyEBHh8JhJeDIsZ8tIY4vwzh9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,18 +67,20 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Typescript Project/ecommerce-admin/app/(dashboard)/[storeId]/(routes)",
+    "last_opened_file_path": "D:/Typescript Project/ecommerce-store/actions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "D:\\Typescript Project\\ecommerce-admin\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Typescript Project\ecommerce-store\actions" />
       <recent name="D:\Typescript Project\ecommerce-admin\app\(dashboard)\[storeId]\(routes)" />
       <recent name="D:\Typescript Project\ecommerce-admin\app\api\[storeId]" />
     </key>
@@ -106,7 +112,13 @@
       <workItem from="1695199919254" duration="1989000" />
       <workItem from="1695208157613" duration="1225000" />
       <workItem from="1695209430578" duration="9638000" />
-      <workItem from="1695253531286" duration="15272000" />
+      <workItem from="1695253531286" duration="15557000" />
+      <workItem from="1695313651563" duration="729000" />
+      <workItem from="1695337385011" duration="78000" />
+      <workItem from="1695337499524" duration="1801000" />
+      <workItem from="1695342370860" duration="12281000" />
+      <workItem from="1695355822008" duration="458000" />
+      <workItem from="1695356721872" duration="5046000" />
     </task>
     <task id="LOCAL-00001" summary="Alear Modal | heading | main nav | setting page update name | delete store">
       <option name="closed" value="true" />
