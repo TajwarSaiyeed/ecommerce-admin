@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee833df7-1517-42cc-a4ce-635032c71542" name="Changes" comment="update&quot;">
-      <change afterPath="$PROJECT_DIR$/actions/get-graph-revenue.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/get-sales-count.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/get-stock-count.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/get-total-revenue.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/[storeId]/checkout/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/overview.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/theme-toggle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/stripe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/providers/theme-provider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecommerce-store/app/(routes)/cart/success/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(dashboard)/[storeId]/(routes)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ecommerce-store/app/(routes)/cart/components/summary.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../ecommerce-store/app/(routes)/cart/components/summary.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ecommerce-store/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../ecommerce-store/components/ui/button.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ecommerce-store" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -141,7 +125,7 @@
       <workItem from="1695429150239" duration="3383000" />
       <workItem from="1695466732236" duration="975000" />
       <workItem from="1695468369285" duration="2034000" />
-      <workItem from="1695470575859" duration="9881000" />
+      <workItem from="1695470575859" duration="10601000" />
     </task>
     <task id="LOCAL-00001" summary="Alear Modal | heading | main nav | setting page update name | delete store">
       <option name="closed" value="true" />
